@@ -20,7 +20,7 @@ O objetivo é aplicar conceitos de desenvolvimento de software, controle de qual
 
 Para executar o projeto, é necessário ter instalado:
 
-- Java JDK 17 ou superior.
+- Java JDK 25 ou superior.
 - Maven.
 - Git.
 
@@ -49,7 +49,3 @@ mvn test
 ```
 
 Esse comando executa os testes automatizados do projeto, verificando o funcionamento das operações de depósito e pagamento, além das validações de saldo e valores inválidos.
-
-### 5. Executar a aplicação
-
-A execução deve ser realizada por meio da classe principal do projeto, utilizando a IDE (IntelliJ IDEA, Eclipse ou VS Code) ou o comando Maven configurado para iniciar a aplicação.
