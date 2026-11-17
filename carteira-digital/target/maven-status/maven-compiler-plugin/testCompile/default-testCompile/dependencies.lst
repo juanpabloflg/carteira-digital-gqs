@@ -1,36 +1,36 @@
-classpath:C:\Users\Rafael T.I\Documents\carteira-digital\carteira-digital-gqs\carteira-digital\target\classes	2:1a487f79fb04faf61192357016861f22213b23b75bc1a8975e5a90352eb74526
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\jupiter\junit-jupiter\5.13.4\junit-jupiter-5.13.4.jar	6366:1753081159000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.13.4\junit-jupiter-api-5.13.4.jar	240237:1753081158000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar	14304:1688646332000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\platform\junit-platform-commons\1.13.4\junit-platform-commons-1.13.4.jar	158512:1753081159000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.13.4\junit-jupiter-params-5.13.4.jar	660823:1753081159000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.13.4\junit-jupiter-engine-5.13.4.jar	341150:1753081159000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\cucumber-java\7.34.9\cucumber-java-7.34.9.jar	762391:1790093191000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\cucumber-core\7.34.9\cucumber-core-7.34.9.jar	550542:1790093191000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\cucumber-gherkin\7.34.9\cucumber-gherkin-7.34.9.jar	7494:1790093191000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.34.9\cucumber-gherkin-messages-7.34.9.jar	29206:1790093191000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\gherkin\36.1.0\gherkin-36.1.0.jar	222157:1762373383000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\messages\30.1.0\messages-30.1.0.jar	102899:1759927341000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\messages-ndjson\0.3.7\messages-ndjson-0.3.7.jar	2522424:1790092293000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\pretty-formatter\2.4.1\pretty-formatter-2.4.1.jar	64112:1762044997000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\query\14.7.0\query-14.7.0.jar	35233:1765201435000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\teamcity-formatter\0.2.0\teamcity-formatter-0.2.0.jar	27582:1761579041000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\testng-xml-formatter\0.7.0\testng-xml-formatter-0.7.0.jar	16799:1761578967000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\usage-formatter\0.1.0\usage-formatter-0.1.0.jar	27728:1760538448000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\tag-expressions\8.1.0\tag-expressions-8.1.0.jar	13507:1764163399000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\cucumber-expressions\18.1.0\cucumber-expressions-18.1.0.jar	81003:1768870108000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\cucumber-json-formatter\0.3.2\cucumber-json-formatter-0.3.2.jar	41228:1765238602000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\datatable\7.34.9\datatable-7.34.9.jar	108414:1790093191000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\cucumber-plugin\7.34.9\cucumber-plugin-7.34.9.jar	33647:1790093191000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\docstring\7.34.9\docstring-7.34.9.jar	14288:1790093191000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\html-formatter\22.3.0\html-formatter-22.3.0.jar	291070:1766436764000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\junit-xml-formatter\0.11.0\junit-xml-formatter-0.11.0.jar	16707:1763140129000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\ci-environment\12.0.0\ci-environment-12.0.0.jar	14579:1761575396000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar	6806:1624798415000
-classpath:C:\Users\Rafael T.I\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.34.9\cucumber-junit-platform-engine-7.34.9.jar	83691:1790093191000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\platform\junit-platform-engine\1.13.4\junit-platform-engine-1.13.4.jar	268584:1753081158000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\platform\junit-platform-suite\1.13.4\junit-platform-suite-1.13.4.jar	6368:1753081159000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\platform\junit-platform-suite-api\1.13.4\junit-platform-suite-api-1.13.4.jar	26108:1753081158000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.13.4\junit-platform-suite-engine-1.13.4.jar	32955:1753081159000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.13.4\junit-platform-suite-commons-1.13.4.jar	18654:1753081159000
-classpath:C:\Users\Rafael T.I\.m2\repository\org\junit\platform\junit-platform-launcher\1.13.4\junit-platform-launcher-1.13.4.jar	223100:1753081158000
+classpath:C:\Atividade 16-11\carteira-digital-gqs\carteira-digital\target\classes	2:ba1b99ccf0a4de5f68eed6a4542e14610e5e91206d368822dd6bd3055bab47ce
+classpath:C:\Users\Juan\.m2\repository\org\junit\jupiter\junit-jupiter\5.13.4\junit-jupiter-5.13.4.jar	6366:1794871421266
+classpath:C:\Users\Juan\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.13.4\junit-jupiter-api-5.13.4.jar	240237:1794871421473
+classpath:C:\Users\Juan\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar	14304:1793060684682
+classpath:C:\Users\Juan\.m2\repository\org\junit\platform\junit-platform-commons\1.13.4\junit-platform-commons-1.13.4.jar	158512:1794871421376
+classpath:C:\Users\Juan\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.13.4\junit-jupiter-params-5.13.4.jar	660823:1794871421575
+classpath:C:\Users\Juan\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.13.4\junit-jupiter-engine-5.13.4.jar	341150:1794871421500
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\cucumber-java\7.34.9\cucumber-java-7.34.9.jar	762391:1794871421570
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\cucumber-core\7.34.9\cucumber-core-7.34.9.jar	550542:1794871421594
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\cucumber-gherkin\7.34.9\cucumber-gherkin-7.34.9.jar	7494:1794871421641
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.34.9\cucumber-gherkin-messages-7.34.9.jar	29206:1794871421903
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\gherkin\36.1.0\gherkin-36.1.0.jar	222157:1794871421677
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\messages\30.1.0\messages-30.1.0.jar	102899:1794871421669
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\messages-ndjson\0.3.7\messages-ndjson-0.3.7.jar	2522424:1794871421928
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\pretty-formatter\2.4.1\pretty-formatter-2.4.1.jar	64112:1794871421742
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\query\14.7.0\query-14.7.0.jar	35233:1794871422139
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\teamcity-formatter\0.2.0\teamcity-formatter-0.2.0.jar	27582:1794871422059
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\testng-xml-formatter\0.7.0\testng-xml-formatter-0.7.0.jar	16799:1794871421990
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\usage-formatter\0.1.0\usage-formatter-0.1.0.jar	27728:1794871422301
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\tag-expressions\8.1.0\tag-expressions-8.1.0.jar	13507:1794871422190
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\cucumber-expressions\18.1.0\cucumber-expressions-18.1.0.jar	81003:1794871422071
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\cucumber-json-formatter\0.3.2\cucumber-json-formatter-0.3.2.jar	41228:1794871422544
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\datatable\7.34.9\datatable-7.34.9.jar	108414:1794871422158
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\cucumber-plugin\7.34.9\cucumber-plugin-7.34.9.jar	33647:1794871422826
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\docstring\7.34.9\docstring-7.34.9.jar	14288:1794871422409
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\html-formatter\22.3.0\html-formatter-22.3.0.jar	291070:1794871422297
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\junit-xml-formatter\0.11.0\junit-xml-formatter-0.11.0.jar	16707:1794871422512
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\ci-environment\12.0.0\ci-environment-12.0.0.jar	14579:1794871422544
+classpath:C:\Users\Juan\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar	6806:1793060684151
+classpath:C:\Users\Juan\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.34.9\cucumber-junit-platform-engine-7.34.9.jar	83691:1794871422498
+classpath:C:\Users\Juan\.m2\repository\org\junit\platform\junit-platform-engine\1.13.4\junit-platform-engine-1.13.4.jar	268584:1794871422604
+classpath:C:\Users\Juan\.m2\repository\org\junit\platform\junit-platform-suite\1.13.4\junit-platform-suite-1.13.4.jar	6368:1794871422615
+classpath:C:\Users\Juan\.m2\repository\org\junit\platform\junit-platform-suite-api\1.13.4\junit-platform-suite-api-1.13.4.jar	26108:1794871423048
+classpath:C:\Users\Juan\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.13.4\junit-platform-suite-engine-1.13.4.jar	32955:1794871422937
+classpath:C:\Users\Juan\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.13.4\junit-platform-suite-commons-1.13.4.jar	18654:1794871422826
+classpath:C:\Users\Juan\.m2\repository\org\junit\platform\junit-platform-launcher\1.13.4\junit-platform-launcher-1.13.4.jar	223100:1794871422705
