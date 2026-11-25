@@ -27,13 +27,13 @@ Para executar o projeto, é necessário ter instalado:
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/juanpabloflg/carteira-digital-gqs.git
 ```
 
 ### 2. Acessar a pasta do projeto
 
 ```bash
-cd NOME_DO_PROJETO
+cd carteira-digital
 ```
 
 ### 3. Compilar o projeto
